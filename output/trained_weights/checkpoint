@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/gq123/dailinhui/FPN_new/output/trained_weights/FPN_Res101_0124_100000/pcb_30000model.ckpt"
+all_model_checkpoint_paths: "/home/gq123/dailinhui/FPN_new/output/trained_weights/FPN_Res101_0124_100000/pcb_30000model.ckpt"
